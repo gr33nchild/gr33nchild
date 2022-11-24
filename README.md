@@ -2,7 +2,7 @@
 - 👀 I’m interested in MetaPhysics
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Ai Art
-- 📫 How to reach me ...
+- 📫 How to reach me @strdstgrl on Instagram
 
 <!---
 gr33nchild/gr33nchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
